@@ -7,8 +7,12 @@
 <head>
     <%- @getBlock("meta").toHTML() %>
     <title><%= @getPreparedTitle() %></title>
-    <%- @getBlock("styles").add(["/styles/styles.css"]).toHTML() %>
-    <!--[if lt IE 8 ]> <%- @getBlock("styles").add(["/styles/ie.css"]).toHTML() %> <![endif]-->
+    <!--[if !IE]> -->
+        <%- @getBlock("styles").add(["/styles/styles.css"]).toHTML() %>
+    <!-- <![endif]-->
+    <!--[if lt IE 8 ]>
+        <%- @getBlock("styles").add(["/styles/ie.css"]).toHTML() %>
+    <![endif]-->
 </head>
 <body>
     <ul>
