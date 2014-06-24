@@ -1,0 +1,133 @@
+---
+title: "Servicios"
+layout: "default"
+isPage: true
+---
+
+h1. Servicios
+
+Diseñamos y construimos sitios web, para todo tipo de dispositivos.
+
+Estrategia, Diseño y Programación
+
+Todo nuestro trabajo tiene una etapa de investigación. Lo quieras o no, investigaremos sobre lo que haces, tus áreas fuertes, las menos fuertes y por supuesto, tu competencia.
+
+h2. Diseño y desarrollo de sitios web
+
+Es lo que más hemos hecho, algunos de nosotros llevamos 10 años haciendo páginas web, hemos visto y hecho de todo, así que somos un poco como las abuelitas, no es tan fácil escandalizarnos, impresionarnos o sorprendernos. Podemos ayudarte a elegir el enfoque, estrategia, tipo de página y tecnología que más te conviene según el presupuesto que tengas.
+
+Todos los sitios web que hacemos y hemos hecho se pueden categorizar de la siguiente manera.
+
+h3. Sitio afiche
+
+El caballito de batalla de los emprendedores, típico de los startups. ¿Necesitas contar sobre tu idea o tu producto nuevo de una manera rápida y efectiva? Especialmente si el tiempo apremia y el presupuesto escasea. Trabajando contigo desarrollamos el mensaje, gráfica y publicamos un sitio veloz y compatible con dispositivos móviles, como iPhone, iPad, Android, Blackberries y otros.
+
+h3. Páginas corporativas
+
+Cuando una sola página no basta para presentar tu organización. Cuando tu quehacer, quien lo hace, cómo se hace, cuanto cuesta y cómo contactarse no cabe en una sola página —por más larga que sea. Normalmente son páginas para empresas compuestas por varias otras empresas, o con varios productos o servicios diferentes, cada uno con su propia identidad. O para empresas con variados servicios. Sitios web que deben responder a las preguntas:
+
+* ¿Qué hacen?
+* ¿Cual es su diferencia con el resto?
+* ¿Quienes son?
+* ¿Cómo me comunico con ellos?
+
+Esta misma página podría entrar dentro de esta categoría. Es la clásica página web de empresa, que parece simple e históricamente ha sido un dolor de cabeza para muchos.
+Nosotros sabemos hacerlas.
+
+h3. Portafolio
+
+Sitios en los que el catálogo del trabajo hecho es el principal atractivo. Arquitectos, diseñadores artistas, fotógrafos, ilustradores y artesanos de todo tipo suelen usar estos sitios para presentar su trabajo. Hemos hecho de todo en este aspecto, desde simples imágenes, hasta abstractas galerías 3D.
+
+h3. Catálogos
+
+El favorito de todos los tiempos! No importa la tecnología, no importa la moda, siempre hay que mostrar los productos de una manera atractiva e informativa. Somos expertos en hacer catálogos, desde los interactivos que se entregaban en CD hasta aplicaciones móviles para ventas en terreno.
+
+Somos expertos en arquitectura de la información. Y lo mejor, los catálogos en línea pueden ser *autoadministrables* o *autogestionables*, para eso están los CMS (Administradores de contenido), y los entregamos con un set de videos —cortos— explicando cómo manejar el contenido. En muchos casos, el siguiente paso de un catálogo en línea es el *carro de cotización*, que es más rápido y económico de desarrollar que un sitio de e-commerce y crea un paso más hacia la conversión del cliente.
+
+h3. e-commerce
+
+Vender algunos productos, ofrecer productos de un catálogo existente, armar una versión en línea de una tienda, hasta construir un completo e-commerce con:
+
+* Registro de usuarios
+* Ofertas
+* Descuentos por volumen
+* Carros de compra
+* Redes sociales
+* Control de pedidos
+* Calculador de precios de despacho según bultos y su tamaño
+* Productos complejos con múltiples opciones
+* Integración aplicaciones móviles
+* Ventas en terreno
+* Control interno de tareas para editores y administradores
+
+El cielo es el límite, si quieres vender en línea tenemos opciones para todos tamaños de proyectos. Trabajamos Wordpress, Prestashop, Drupal Commerce, Paypal, Webpay y desarrollos personalizados, si no sabes cual, pregúntanos.
+
+h3. Blogs
+
+Wordpress, Drupal, Blogger, Jekyll y Tumblr, algunas de las plataformas para blogs con las que hemos trabajado. Si tienes mucho que contar, quieres generar tráfico orgánico hacia tu sitio y quieres mejorar tu visibilidad en los buscadores, un blog es la mejor herramienta. Toma tiempo y esfuerzo pero es satisfactorio y entrega buenos resultados.
+
+h3. Brochures interactivos
+
+h3. Interactivos touch de punto de venta (PoP)
+
+¿Tienes un evento y necesitas promocionar algo?
+¿Quieres repartir merchandizing de manera entretenida?
+¿Quieres que tus clientes puedan canjear cupones?
+
+¿Quieres hacer un sorteo entretenido?
+Ponemos contenido en grandes pantallas touch, para que los usuarios que además es interactivo
+
+h3. Desarrollos a la medida
+
+Alguien puede decir —Ah! pero es que lo mío es diferente— ...son esos los proyectos que más nos entretienen. Efectivamente quien dice eso, *es diferente*, porque sabe que puede servirse de la web como una herramienta. Aquí es donde sacamos a relucir nuestras habilidades de programación. Muchos han llegado con un problema y una vaga idea de cómo solucionarlo. O quieren partir por un sitio pequeño e ir haciéndolo crecer. Son nuestros proyectos favoritos, los desafíos, la innovación.
+
+*¿Cómo qué?*
+
+* Sistemas de cotización para productos complejos
+* Administración de documentos digitales
+* Control de seguridad en procedimientos industriales
+* Aplicación web móvil para generar pedidos en terreno
+* Demo de servicios en Aplicación móvil para iPad
+* Playlist de canciones favoritas para eventos
+* Importación y catalogación de 16.000 productos + Motor de Búsqueda personalizado
+* Diseño de información y experiencia de usuarios para servicios courier
+* Clonado de páginas completas
+* Traducción y publicación de sitios
+* Juego en línea con tabla de resultados dentro de una empresa (diseño, ilustración y programación)
+* Reestructuración de información en Intranet
+* Galerías multimedia
+* Calendarios de eventos
+* Software educativo interactivo
+* Prueba de colores de pintura en habitaciones.
+* Cotizador de paquetes de productos
+* Visualización de planos inmobiliarios
+* Sorteo de premios y captura de datos
+
+No siempre programamos una solución, muchas veces estudiamos las alternativas existentes y la implementamos para el cliente, por ejemplo: Dropbox para manejar los documentos de una empresa o Mailchimp para llevar un boletín informativo de la organización.
+
+h2. Diseño Gráfico
+
+Somos diseñadores y hemos hecho la identidad para muchas marcas.
+
+Normalmente no hacemos piezas gráficas sueltas, pero si ayudamos a nuestros clientes cuando necesitan diseño impreso y branding.
+
+h2. Diseño de marca, branding
+
+h3. Logotipo
+
+Lo básico, usualmente, el germen del resto de una marca.
+Hacemos diseño y re-diseño de logotipos. Un logotipo nunca estará solo, siempre tendrá un contexto, con eso en consideración diseñamos cada uno de nuestros logos. Los entregamos con un *Manual de normas gráficas* (manual de uso), que es una guía para sus aplicaciones en diferentes medios, contextos, superficies y tamaños.
+
+h3. Papelería
+
+Desde una tarjeta de visita, hasta sofisticadas carpetas, impresas en cartulinas de lujo. Con papelería dejas rastros de tu marca, donde sea que caiga. Lo elementos típicos de una papelería son:
+
+* Tarjetas de visita
+* Hoja Carta (Primera y segunda hoja)
+* Hoja Oficio (Primera y segunda hoja)
+* Sobre Americano
+* Sobre 13 x 24 cm (como el americano, pero cabe más de un papel)
+* Saco Oficio 25 x 36 cm
+* Saco Universal 30 x 40 cm (aquí cabe todo)
+* Carpeta corporativa para hoja oficio
+* Firmas de email

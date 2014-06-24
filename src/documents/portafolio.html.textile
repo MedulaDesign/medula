@@ -1,0 +1,40 @@
+---
+title: "A quienes hemos ayudado"
+layout: "default"
+isPage: true
+---
+
+h1. Vitrina
+
+h2. Web y móvil
+
+La mayor parte de nuestro tiempo está dedicado al diseño y desarrollo web, más aún ahora que la web es accesible desde una infinidad de dispositivos. El desafío es grande, las tecnologías cambian todos los días y no hay respuestas definitivas. Analizamos cada caso y aplicamos lo mejor para cada proyecto. Hemos explorado muchas metodologías de trabajo, tecnologías y estilos de diseño.
+
+h3. Lo más reciente
+
+* Paz Vial 2014
+* VIK responsive Store 2014
+* DMJ Analytics
+* Good Game 2013
+* Natur Fresh
+* Aramark
+* JZMusic 2013
+* Agencia Espinosa (2013)
+* Assa Abloy
+* DRIVER (2012)
+* VIK responsive 2011
+
+h3. Nuestros regalones
+
+* Catalina Amenabar (2011)
+* Nescappuccino (2010 — 2011)
+* Santillana (2010)
+* JZMusic (2004 — 2013)
+* AS&Partners (2009)
+* Pinturas Glam Kölor (2007 — 2009)
+* InMed
+* Diseño Corporativo
+
+h3. Interactivos Punto de Venta (PoP)
+
+El contexto lo es todo, a veces una gran pantalla táctil con una aplicación para los presentes es mucho más efectivo que miles de avisos de prensa. Concursos, interactivos, sorteos, ruletas, interacciones cortas y efectivas para eventos y ubicaciones específicas.

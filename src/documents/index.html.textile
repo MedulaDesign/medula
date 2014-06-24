@@ -1,0 +1,38 @@
+---
+title: "Home"
+layout: "default"
+isPage: true
+---
+
+h1. Diseño y desarrollo web fantásticamente flexible y adaptable.
+
+Siempre con la experiencia del usuario en mente, los sitios web que hemos hecho han ayudado a pequeños emprendimientos personales, tiendas que se abren a internet, grandes organizaciones y todo lo que está entremedio.
+
+h2. ¿Y qué significa eso para mi?
+
+* Tenemos múltiples perspectivas para enfrentar un proyecto.
+* Hemos visto el éxito y fracaso de muchas ideas.
+* Sabemos cómo son los flujos de trabajo en diferentes tipos de empresas.
+* Sabemos que el más experto en el proyecto eres tu.
+* Hacemos preguntas complicadas, sabemos dónde suelen esconderse los problemas.
+* Te ayudamos a generar una estrategia web apropiada al presupuesto que tengas.
+
+Ya no es suficiente que un sitio web sea un brochure digital, generamos herramientas para ventas y procesos internos de la organización.
+
+No existe la panacea, pero sabemos cual es mejor el remedio según el contexto —a veces no somos nosotros.
+
+h2. ¿Estrategia?
+
+Tu defines las metas y objetivos, nosotros te ayudamos en cómo lograrlos
+
+Aportamos toda nuestra experiencia en estrategia, diseño y tecnología web.
+
+h2. ¿Estrategia web?
+
+Nos mantenemos actualizados y no nos amarramos a ninguna tecnología en particular.
+
+h1. ¿Tienes algo que mostrarle al mundo en poco tiempo?
+
+Tenemos algo para ti: una Página Afiche
+
+Nada como las primeras impresiones, te ayudamos a presentar en pocos segundos tu proyecto, producto o servicio y en la misma página profundizar tu narración.
