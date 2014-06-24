@@ -24,7 +24,7 @@ var docpadConfig =  {
     templateData: {
         site: {
             title: 'Medula Diseño',
-            url: 'http://www.medula.cl'
+            url: 'http://nuevo.medula.cl'
         },
         getPreparedTitle: function () {
             if (this.document.title) {
