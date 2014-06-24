@@ -64,7 +64,8 @@ var docpadConfig =  {
                     outputStyle: 'expanded'
                 }
             }
-        }
+        },
+        outPath: '../out_dev'
     },
     localeCode: 'es',
     outPath: '../out'
